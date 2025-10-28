@@ -1,6 +1,6 @@
-# 💻 [Nome do Módulo] - Projetos Práticos
+# 💻 Vaden Projects - Projetos Práticos
 
-**Projetos hands-on para consolidar o aprendizado do vaden-projects**
+**Projetos hands-on para consolidar o aprendizado do 2° Módulo**
 
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -27,8 +27,8 @@ Cada projeto aqui é desenhado para:
 
 | Projeto | Descrição | Conceitos | Duração | Status |
 |---------|-----------|-----------|---------|--------|
-| [project-01-name](./project-01-name) | Descrição breve | conceito1, conceito2 | 2-3h | ✅ |
-| [project-02-name](./project-02-name) | Descrição breve | conceito3, conceito4 | 3-4h | 🟡 |
+| [project-01-name](./project-01-name) | Descrição breve | conceito1, conceito2 | 2-3h | 🟡 |
+| [project-02-name](./project-02-name) | Descrição breve | conceito3, conceito4 | 3-4h | 🔴 |
 
 ### 🟡 Nível Intermediário
 
@@ -52,7 +52,7 @@ Cada projeto aqui é desenhado para:
 
 - Dart SDK instalado ([instruções](https://dart.dev/get-dart))
 - VS Code ou sua IDE preferida
-- Ter concluído as lições teóricas do [Módulo X](https://github.com/dart-learning-hub/curriculum/tree/main/docs/module-X)
+- Ter concluído as lições teóricas do [Módulo X](https://github.com/dart-learning-hub/curriculum/tree/main/docs/module-2)
 
 ### Workflow Recomendado
 
